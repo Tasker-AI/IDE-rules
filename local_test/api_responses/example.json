@@ -1,0 +1,18 @@
+{
+    "examples": [
+        {
+            "exampleId": "EXAMPLE-123456789",
+            "exampleName": "example name",
+            "exampleDescription": "example description",
+            "ownerId": "12345-abcde",
+            "exampleModel": "gpt-4o"
+        },
+        {
+            "exampleId": "EXAMPLE-987654321",
+            "exampleName": "example name 2",
+            "exampleDescription": "example description 2",
+            "ownerId": "12345-abcde",
+            "exampleModel": "gpt-4o"
+        }
+    ]
+}

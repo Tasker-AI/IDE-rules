@@ -1,0 +1,5 @@
+"packageId","packageName","packageDescription","packageModel","isCore","ownerId"
+"pkg-001","Social Media Manager","Manages social media posts and schedules.","gpt-4","false","owner-101"
+"pkg-002","Email Campaigner","Sends out email marketing campaigns.","claude-2","false","owner-102"
+"pkg-003","Inventory Tracker","Tracks product inventory across warehouses.","gpt-3.5-turbo","true","owner-101"
+"pkg-004","Lead Generator","Generates leads from website traffic.","gemini-pro","false","owner-103"

@@ -1,0 +1,5 @@
+"agentId","agentName","agentDescription","agentPrompt","isCore","ownerId"
+"agent-001","Marketing Analyzer","Analyzes marketing campaign data to provide insights.","You are a marketing data analyst bot.","false","owner-001"
+"agent-002","Code Reviewer","Reviews code for style and potential bugs.","You are a code review assistant.","false","owner-002"
+"agent-003","Customer Support","Provides first-level customer support.","You are a friendly and helpful customer support agent.","true","owner-003"
+"agent-004","Data Entry","Automates data entry from various sources.","You are a data entry bot.","false","owner-001"

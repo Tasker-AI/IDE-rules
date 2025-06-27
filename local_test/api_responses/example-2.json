@@ -1,0 +1,39 @@
+{
+  "userProfile": {
+    "userId": "user-123",
+    "username": "john_doe",
+    "personalInfo": {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com",
+      "address": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "state": "CA",
+        "zipCode": "12345"
+      }
+    },
+    "accountSettings": {
+      "theme": "dark",
+      "notifications": {
+        "email": true,
+        "sms": false,
+        "push": true
+      },
+      "privacy": "private"
+    },
+    "recentActivity": [
+      {
+        "activityId": "act-001",
+        "type": "login",
+        "timestamp": "2025-06-28T10:25:00Z"
+      },
+      {
+        "activityId": "act-002",
+        "type": "post_created",
+        "postId": "post-456",
+        "timestamp": "2025-06-28T10:30:00Z"
+      }
+    ]
+  }
+}
