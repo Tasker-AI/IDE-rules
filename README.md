@@ -12,16 +12,15 @@ Rules files for agentic IDEs like Curor and Windsurf to get optimal performance 
 - Differences per OS/environment
 
 ## Step 2: Copy the files from this repo to your project
-- Copy the `global-rules.md` file to your IDE's global rules folder
+- Copy the `global-rules.md` file to your IDE's global rules folder, or to the appropriate memories 
 - Copy the `project-rules.md` file to your project's root folder, or to the appropriate memories location
 - Ensure that the `project-rules.md` file is referenced in every prompt by turning this on in your IDE
 - Copy the `project-structure.md` file to your project's root folder, or to the appropriate memories location
-- Copy the `checklist.md` file to your project's root folder, or to the appropriate memories location
 - Copy the `local_test` folder to your project's root folder
 - **IMPORTANT:** gitignore the `local_test` folder in your project by adding `local_test` to your projects `.gitignore` file
-- Add example API curls to the `api_curls` folder
-- Add example API responses to the `api_responses` folder
-- Download .csv files for each database table that you will be working with and place them in the `database_tables` folder
+- If relevant to your project, add example API curls to the `api_curls` folder
+- If relevant to your project, add example API responses to the `api_responses` folder
+- If relevant to your project, download .csv files for each database table that you will be working with and place them in the `database_tables` folder
 
 ## Step 3: Open your IDE chat and ask Gemini 2.5 Pro to update the files using the following prompt
 ```md
