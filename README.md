@@ -46,9 +46,9 @@ You will need to:
 - Update the rules in the `project_rules.md` file with anything specific to your project's needs
 
 
-## Step 5: Use the prompts in the `prompts` folder for your development
+## Step 5: Use the prompts in the `local_test\prompts` folder for your development
 - Always use a `checklist.md` file for each feature or change that will be implemented (Windsurf has this built in, so this is not required)
-- Use the prompts in the `prompts` folder in the numbered order
+- Use the prompts in the `local_test\prompts` folder in the numbered order
 - For every new feature or change, start with a `planning.md` prompt using the Gemini 2.5 Pro model
 - Execute the `workflow.md` prompt using the Claude 4 model for rapid iterations, or Gemini 2.5 Pro for targeted changes
 - Test using the `testing.md` prompts whenever a feature is completed
