@@ -22,3 +22,6 @@ Example API curls can be found in `local-test\api_curls\`
 
 ## API responses
 Example API responses can be found in `local-test\api_responses\`
+
+## API docs
+Example link for `xyz` API docs: example.com

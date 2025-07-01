@@ -18,6 +18,7 @@ Rules files for agentic IDEs like Curor and Windsurf to get optimal performance 
 - Copy the `project-structure.md` file to your project's root folder, or to the appropriate memories location
 - Copy the `local_test` folder to your project's root folder
 - **IMPORTANT:** gitignore the `local_test` folder in your project by adding `local_test` to your projects `.gitignore` file
+- If relevant to your project, add API documentation links to the `api_docs` section of the `project-rules.md` file
 - If relevant to your project, add example API curls to the `api_curls` folder
 - If relevant to your project, add example API responses to the `api_responses` folder
 - If relevant to your project, download .csv files for each database table that you will be working with and place them in the `database_tables` folder
